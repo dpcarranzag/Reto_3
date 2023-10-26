@@ -104,7 +104,7 @@ Si un fantasma toca a Pac-Man, este pierde una vida.<br>
 ![alt text][Opciones]
 ![alt text][Pausa]
 <!-- Referencias para las imagenes -->
-[wireframe]: /Wireframes.png "Wireframe de las UI"
+[wireframe]: /Wireframe.png "Wireframe de las UI"
 [Level1]: /Interfaces/Pantalla_Level1.png "Esquema para el nivel 1"
 [Menu]: /Interfaces/Pantalla_Menú.png "Esquema para el menú inicial"
 [Niveles]: /Interfaces/Pantalla_Niveles.png "Esquema para la pantalla niveles"
